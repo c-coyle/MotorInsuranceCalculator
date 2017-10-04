@@ -1,0 +1,9 @@
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\bin\Debug\netcoreapp1.1\MotorInsuranceCalculator.deps.json
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\bin\Debug\netcoreapp1.1\MotorInsuranceCalculator.runtimeconfig.json
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\bin\Debug\netcoreapp1.1\MotorInsuranceCalculator.runtimeconfig.dev.json
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\bin\Debug\netcoreapp1.1\MotorInsuranceCalculator.dll
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\bin\Debug\netcoreapp1.1\MotorInsuranceCalculator.pdb
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\obj\Debug\netcoreapp1.1\MotorInsuranceCalculator.csprojResolveAssemblyReference.cache
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\obj\Debug\netcoreapp1.1\MotorInsuranceCalculator.AssemblyInfo.cs
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\obj\Debug\netcoreapp1.1\MotorInsuranceCalculator.dll
+c:\users\ciarán\documents\visual studio 2017\Projects\MotorInsuranceCalculator\MotorInsuranceCalculator\obj\Debug\netcoreapp1.1\MotorInsuranceCalculator.pdb
